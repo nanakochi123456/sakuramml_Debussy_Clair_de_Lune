@@ -6,6 +6,10 @@ This is public domain
 
 ■再生方法■
 
+以下から再生する（約2時間あります)
+
+https://www.nicovideo.jp/watch/sm44583693
+
 MMLファイルはテキスト音楽サクラで読み込んでください
 
 https://www.vector.co.jp/soft/win95/art/se125250.html
