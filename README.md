@@ -1,4 +1,4 @@
-Debussy Clair de Lune on sakuramml
+Debussy Clair de Lune on sakuramml Loopable
 
 This is public domain
 
@@ -18,6 +18,17 @@ https://sakuramml.com/
 
 ※ご注意 Webサイト上のピコサクラでは再生できません
 
+音源は Noct-Salamander Project を利用するとよいでしょう
+
+https://www.ir.isas.jaxa.jp/~cyamauch/NoctSalamanderGrandPiano/index.ni.html
+
+■ご注意■
+
+100回級のループを32bit版のテキスト音楽サクラで行わないで下さい。
+64bit版FPCでコンパイルした64bit版のcsakuraをビルドすることにより、安定的に
+MIDIファイルを生成できます。
+
+https://github.com/kujirahand/sakuramml
 
 ■クレジット■
 
